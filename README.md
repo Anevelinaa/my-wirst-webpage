@@ -1,16 +1,22 @@
 # my-first-webpage
 <!DOCTYPE html>
 <html>
+<body style="background-color:black;">
 
-  <head>
-    <title>Elchin's hobby page</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-  </head>
+<h1 style=color:white;">This is a heading</h1>
+<p style="color:yellow;">This is a paragraph.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+
   
-<body>
+<body style=background-color:#C612C6;>
 
-<h1>Welcome to my hobby website</h1>
-  <h2>About me</h2>
+<h1 style="color:blue;background-color:red;">Welcome to my hobby website</h1>
+  <h2 style="color:yellow;background-color:blue;font-size:18px">About me</h2>
   <p>Hey, my name is Elchin. I like Tech and Coding and Music and Reading, and Astronomy, and ...</p>
   <p>You can join my discord https://join.datorium.eu/dicord</p>
   
